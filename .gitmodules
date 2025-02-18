@@ -1,0 +1,9 @@
+[submodule "aima-python"]
+	path = aima-python
+	url = git@github.com:jmayhugh1/aima-python.git
+[submodule "ppsar"]
+	path = ppsar
+	url = git@github.com:PP-FM/ppsat.git
+[submodule "ppsat"]
+	path = ppsat
+	url = git@github.com:PP-FM/ppsat.git
